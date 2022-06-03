@@ -10,7 +10,6 @@
 int main(void)
 {
 	int n;
-	printf( "Please enter your number" );
 	scanf( "%d", &n );
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
