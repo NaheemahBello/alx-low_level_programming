@@ -2,7 +2,7 @@
 
 /**
  *
- * main - Prints the alphabet in loer case except for q and e.
+ * main - Prints the alphabet in lower case except for q and e.
  *
  * Return: Always 0.
  */
